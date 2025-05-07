@@ -1,4 +1,4 @@
-const apiKey = 'ed1e23069832cf7d263a489b13406398'; 
+const apiKey = 'secret'; 
 
 function onResponse(response){
     return response.json();
